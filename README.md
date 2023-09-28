@@ -46,7 +46,7 @@ Once you indicate to the bot that you are satisfied with the lesson plan, it wil
 
 # Importing
 
-If you'd like to use the Teaching Accelerator yourself or simply see how it's built, please feel free to export from my GitHub and import into your own environment.   
+If you'd like to use the Teaching Accelerator yourself or simply see how it's built, please feel free to export from my unmanaged solution from GitHub and import into your own environment.   
 
 > Please note, as of 28/09/2023 the, the new PVA component was not working in UK environments, only in US. Hopefully this will be fixed soon.
 
