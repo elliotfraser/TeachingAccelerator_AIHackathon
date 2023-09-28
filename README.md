@@ -3,7 +3,7 @@
 
 This project was my submission to the [2023 Power Platform AI Hack](https://learn.microsoft.com/en-us/events/hack-together-powerplatform-ai/)
 
-__[See my video sumbission HERE](https://www.youtube.com/watch?v=7zHw27HJvbk)__
+__[See my video submission HERE](https://www.youtube.com/watch?v=7zHw27HJvbk)__
 
 ![Screenshot 2023-09-28 171952](https://github.com/elliotfraser/TeachingAccelerator_AIHackathon/assets/112189810/5d99bce1-2e57-4fe8-bd03-af4a447889c2)
 
