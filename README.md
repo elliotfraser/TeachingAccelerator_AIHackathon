@@ -1,7 +1,7 @@
 
 # TeachingAccelerator - Power Platform AI Hackathon
 
-This project was my submission to the [2023 Power Platform AI Hack](https://learn.microsoft.com/en-us/events/hack-together-powerplatform-ai/)
+This project was my submission to [Microsoft's 2023 Power Platform AI Hack](https://devblogs.microsoft.com/powerplatform/hack-together-the-power-platform-ai-global-hack/)
 
 __[See my video submission HERE](https://www.youtube.com/watch?v=7zHw27HJvbk)__
 
@@ -46,7 +46,7 @@ Once you indicate to the bot that you are satisfied with the lesson plan, it wil
 
 # Importing
 
-If you'd like to use the Teaching Accelerator yourself or simply see how it's built, please feel free to export from my unmanaged solution from GitHub and import into your own environment.   
+If you'd like to use the Teaching Accelerator yourself or simply see how it's built, please feel free to export from my unmanaged solution and import into your own environment.   
 
 > Please note, as of 28/09/2023 the, the new PVA component was not working in UK environments, only in US. Hopefully this will be fixed soon.
 
