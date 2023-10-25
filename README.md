@@ -1,7 +1,7 @@
 
-# TeachingAccelerator - Power Platform AI Hackathon
+# TeachingAccelerator - Power Platform AI Hackathon 🏆
 
-This project was my submission to [Microsoft's 2023 Power Platform AI Hack](https://devblogs.microsoft.com/powerplatform/hack-together-the-power-platform-ai-global-hack/)
+This project was my Grand Prize Winning submission to [Microsoft's 2023 Power Platform AI Hack](https://devblogs.microsoft.com/powerplatform/announcing-the-hacktogether-power-platform-global-ai-hack-winners/)
 
 __[See my video submission HERE](https://www.youtube.com/watch?v=7zHw27HJvbk)__
 
