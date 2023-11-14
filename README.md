@@ -44,14 +44,6 @@ Once you indicate to the bot that you are satisfied with the lesson plan, it wil
 
 ![CreatLesson](https://github.com/elliotfraser/TeachingAccelerator_AIHackathon/assets/112189810/fb543603-b73e-4c5c-a208-7cf7d6f505c5)
 
-# Importing
-
-If you'd like to use the Teaching Accelerator yourself or simply see how it's built, please feel free to export from my unmanaged solution and import into your own environment.   
-
-> Please note, as of 28/09/2023 the, the new PVA component was not working in UK environments, only in US. Hopefully this will be fixed soon.
-
-> During the importing process, you will need to provide a valid OpenAI Secret Key. This can be obtained by [creating an account HERE](https://platform.openai.com/overview).
-
 # Future Features
 
 I think there are many ways we can accelerate a teaching by using AI. Not only can we save time but also improve the experience for students. 
